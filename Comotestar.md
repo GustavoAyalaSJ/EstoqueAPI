@@ -2,7 +2,7 @@
 
 1. Baixe o Microsoft Visual Studio e selecione ASP.NET e desenvolvimento Web pelo Visual Studio Installer (para utilizar a API);
 
-2. Após a instalação do ASP.NET e desenvolvimento Web com SDK do .NET 8.0 selecionado, baixe os arquivos de projeto;
+2. Após a instalação do ASP.NET e desenvolvimento Web com SDK do .NET 8.0 selecionado, baixe os arquivos do projeto;
 
 3. Abra o Microsoft Visual Studio e importe os arquivos para dentro do framework;
 
