@@ -6,9 +6,9 @@
 
 3. Abra o Microsoft Visual Studio e importe os arquivos para dentro do framework;
 
-4. Vá na aba "Ferramentas" e vá em "Gerenciar de Pacotes no Nuget" e selecione 'Console do Gerenciador de Pacotes';
+4. Vá na aba "Ferramentas" em seguida para "Gerenciar de Pacotes no Nuget" e clique ou selecione o 'Console do Gerenciador de Pacotes';
 
-5. Vá no console e digite esta linha de comando:
+5. Vá no console do Visual Studio e digite esta linha de comando:
 
 Install-Package Swashbuckle.AspNetCore // Instalador do Swagger (Extensão);
 
