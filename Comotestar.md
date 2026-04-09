@@ -1,6 +1,6 @@
 ===== Gerenciamento de Estoque em C# =====
 
-1. Baixar o Microsoft Visual Studio e selecionar ASP.NET e desenvolvimento Web no Visual Studio Installer;
+1. Baixe o Microsoft Visual Studio e selecionar ASP.NET e desenvolvimento Web no Visual Studio Installer;
 
 2. Após a instalação do ASP.NET e desenvolvimento Web com SDK do .NET 8.0 selecionado, baixe os arquivos pelo GitHub;
 
